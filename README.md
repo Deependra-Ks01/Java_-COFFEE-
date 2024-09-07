@@ -1,6 +1,9 @@
 # JAVA
 
 ```sh
-  $ sudo tar -xzf swift-LOCAL-YYYY-MM-DD-a-osx.tar.gz -C /
-  $ tar -xzf swift-LOCAL-YYYY-MM-DD-a-osx.tar.gz -C ~/
+  public class HelloWorld{
+    public static void main(String[] args){
+      System.out.println("Hello World");
+    }
+  }
 ```
