@@ -1,0 +1,15 @@
+1st Version
+- It was just automate the dog door.
+- Opening and closing of the dogdoor.
+Cons:
+- Owner always need to do action to open the door
+
+2nd Version
+- Came-up with the verison of automating the door by sound.
+Cons:
+- Any dog can bark and door will open.
+
+3rd Version
+- Owner wants to use the remote and bark sound both.
+- In this verision, I've used the both sound and remote.
+- Additonally, with the BarkRecognizer to Recognize the existing the bark sounds only.
