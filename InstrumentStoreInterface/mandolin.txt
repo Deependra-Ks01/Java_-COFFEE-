@@ -1,0 +1,36 @@
+5
+M101
+Gibson
+F-5 Master Model
+Spruce
+Maple
+24950.0
+F
+M102
+Kentucky
+KM-150
+Sitka Spruce
+Maple
+595.0
+A
+M103
+Eastman
+MD315
+Spruce
+Maple
+850.0
+F
+M104
+The Loar
+LM-520-VS
+Solid Spruce
+Solid Maple
+649.0
+F
+M105
+Collings
+MT
+Adirondack Spruce
+Maple
+3850.0
+A
